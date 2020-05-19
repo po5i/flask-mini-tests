@@ -2,7 +2,7 @@
 
 ![](https://github.com/po5i/flask-mini-tests/workflows/Flask/badge.svg)
 
-This is a examle repository for [my article]().
+This is a examle repository for [my article](https://dev.to/po5i/how-to-add-basic-unit-test-to-a-python-flask-app-using-pytest-1m7a).
 
 ## Setup
 
